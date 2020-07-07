@@ -1,1 +1,3 @@
-{"tfjsVersion":"1.3.1","tmVersion":"0.8.6","packageVersion":"0.8.6","packageName":"@teachablemachine/pose","timeStamp":"2020-05-31T20:47:37.883Z","userMetadata":{},"modelName":"my-pose-model","labels":["Plank Pose","Downward Dog","Child's Pose","Low Lunge Pose","Cobra Pose","Boat Pose","Warrior Pose"],"modelSettings":{"posenet":{"architecture":"MobileNetV1","outputStride":16,"inputResolution":257,"multiplier":0.75}}}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7b1ac0ee524ae9e9314774f13482bddf3e07e55893532fa6dd986b45c23c6b2
+size 420

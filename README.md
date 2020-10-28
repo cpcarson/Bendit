@@ -1,3 +1,5 @@
+![](bendit_demo.gif)
+
 # Problem Statement
 The COVID-19 outbreak has put a halt to the normal fitness schedules of many Americans, leading to an increase in the popularity of online fitness regiments. Even before COVID-19, a 2020 [study](https://www.businesswire.com/news/home/20200212005665/en/4708176/Global-Interactive-Fitness-Market-2020-2024-Growing-Awareness) concluded that the online fitness industry was expected to grow by $5.44 billion from 2020-2024. The majority of thse classes are available in three categories: recorded, large-scale live, and small-scale live, with each format having its own strengths and drawbacks. For online yoga classes in particular, there are few options that balance the affordablility of large classes while maintaining the instructional capabilities that are afforded by a small, intimate class. My goal with this project was to build a platform that had the potential to bridge such a gap.  
 
